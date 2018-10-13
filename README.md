@@ -10,40 +10,40 @@ Here are some awesome tools for dealing with CSV:
 
 ## Awesome CSV Tools
 
-* [NimbleText/Live](https://NimbleText.com/Live)<sup><a href='#footnote1'><strong>*</strong></a></sup>: Use patterns to manipulate CSV; the world's simplest code generator
-* [PapaParse](https://www.papaparse.com): A powerful in-browser CSV parser
+* [NimbleText/Live](https://NimbleText.com/Live)<sup><a href='#footnote1'><strong>*</strong></a></sup>: use patterns to manipulate CSV; the world's simplest code generator
+* [PapaParse](https://www.papaparse.com): a powerful in-browser CSV parser
 * [CSVKit](http://csvkit.readthedocs.org/en/0.7.3/): CSV utilities that includes csvsql / csvgrep / csvstat  and more
-* [XSV](https://github.com/BurntSushi/xsv): A fast CSV command-line toolkit written in Rust
+* [XSV](https://github.com/BurntSushi/xsv): a fast CSV command-line toolkit written in Rust
 * [sed (gnu tool)](https://www.gnu.org/software/sed/manual/sed.html): stream editor
 * [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html): text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html)
 * [Miller](http://johnkerl.org/miller/doc/): like sed / awk / cut / join / sort etc for name-indexed data such as CSV
 * [ParaText](http://www.wise.io/tech/paratext): CSV parsing at 2.5 GB per second
-* [CSVGet](http://github.com/fizx/csvget/tree/master): Get structured data from sites as CSV
+* [CSVGet](http://github.com/fizx/csvget/tree/master): get structured data from sites as CSV
 * [CSVfix](https://code.google.com/p/csvfix/): a tool for manipulating CSV data
-* [StreamingPivot](http://streamingpivot.com/): Pivot and visualize CSV data purely in the browser
-* [Tad](http://www.tadviewer.com):  A fast free cross-platform CSV viewer
-* [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/): A tiny library for making charts from csv data
+* [StreamingPivot](http://streamingpivot.com/): pivot and visualize CSV data purely in the browser
+* [Tad](http://www.tadviewer.com): a fast free cross-platform CSV viewer
+* [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/): a tiny library for making charts from csv data
 * [CSV Tools](https://onlinecsvtools.com/): a collection of useful CSV utilities
-* [Mockaroo](https://www.mockaroo.com/): Random Data Generator for CSV / JSON / SQL / Excel
+* [Mockaroo](https://www.mockaroo.com/): random data generator for CSV / JSON / SQL / Excel
 
 ### Repair or Validate CSV
 
-* [Csvlint.go](https://github.com/Clever/csvlint): Command line tool for validating CSV files against RFC 4180
-* [csvstudio](http://www.csvstudio.com): A smart app to repair syntax errors in very large CSV files
+* [Csvlint.go](https://github.com/Clever/csvlint): command line tool for validating CSV files against RFC 4180
+* [csvstudio](http://www.csvstudio.com): a smart app to repair syntax errors in very large CSV files
 
 ### Treat CSV as SQL:
 
-* [TextQL](http://dinedal.github.io/textql/): Execute SQL Against CSV or TSV
-* [Datasette Facets](https://simonwillison.net/2018/May/20/datasette-facets/): Faceted Browse and a JSON API for any CSV File or SQLite DB
+* [TextQL](http://dinedal.github.io/textql/): execute SQL against CSV or TSV
+* [Datasette Facets](https://simonwillison.net/2018/May/20/datasette-facets/): faceted browse and a JSON API for any CSV File or SQLite DB
 
 
 ### Convert to or from CSV:
-* [CSV to Table](https://github.com/vividvilla/csvtotable): Convert CSV files to searchable and sortable HTML table
+* [CSV to Table](https://github.com/vividvilla/csvtotable): convert CSV files to searchable and sortable HTML table
 
 ### CSV <-> JSON
 
 * [Agnes](http://www.secretgeek.net/agnes/twoWay.html)<sup><a href='#footnote2'><strong>**</strong></a></sup>: two way Csv to Json
-* [csv2json](https://www.csvjson.com/csv2json): Online tool to convert your CSV or TSV formatted data to JSON and [vice versa](https://www.csvjson.com/json2csv)
+* [csv2json](https://www.csvjson.com/csv2json): online tool to convert your CSV or TSV formatted data to JSON and [vice versa](https://www.csvjson.com/json2csv)
 
 ### CSV Essays
 * [Thinking about CSV](https://blog.datacite.org/thinking-about-csv/): Martin Fenner
@@ -56,37 +56,31 @@ Here are some awesome tools for dealing with CSV:
 
 * [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV): 18789+ CSV datasets
 * [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV): 2715+ CSV datasets
-* [Reference data in csv](https://datahub.io/collections/reference-data): Easy-to-use reference data in CSV and JSON formats
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): A topic-centric list of high-quality open datasets in public domains
+* [Reference data in csv](https://datahub.io/collections/reference-data): easy-to-use reference data in CSV and JSON formats
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): a topic-centric list of high-quality open datasets in public domains
 
 ## Awesome CSV Standards
 
 >The wonderful thing about standards is that there are so many of them to choose from.<br />&mdash;(Possibly) Grace Hopper
 
-* [RFC 4180](https://tools.ietf.org/html/rfc4180) &mdash; "Common Format and MIME Type for Comma-Separated Values (CSV) Files"
+* [RFC 4180](https://tools.ietf.org/html/rfc4180): "*Common format and MIME Type for Comma-Separated Values (CSV) Files*"
   * [Definition of the CSV Format](https://tools.ietf.org/html/rfc4180#section-2)
   * [MIME Type Registration of text/csv](https://tools.ietf.org/html/rfc4180#section-3)
 * [W3C: Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
-* [CSV Schema Language](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html): A Language for Defining and Validating CSV Data
-
-* [CSV 1.1](https://csv11.github.io/) &mdash; CSV Evolved (for Humans) - Easy-to-Write and Easy-to-Read
+* [CSV Schema Language](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html): a language for defining and validating CSV data
+* [CSV 1.1](https://csv11.github.io/): CSV evolved (for Humans) - easy-to-write and easy-to-read
 
 
 # Meta: Other Lists of CSV Tools and References
 
-* [structured-text-tools](https://github.com/dbohdan/structured-text-tools): List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc
- * [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv): This list as a CSV file
- * [META-META-META]( http://NimbleText.com/Live/1687322290): This list as a nimbletext Pattern that produces this markdown page from CSV
-
-
-
-
+* [structured-text-tools](https://github.com/dbohdan/structured-text-tools): list of command line tools for manipulating CSV / XML / HTML / JSON / INI etc
+* [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv): this list as CSV
+* [META-META-META](https://nimbletext.com/Live/-971009575/): a NimbleText pattern that produces this markdown page from this list as a CSV
 
 -----
 
 # Footnotes
 
-(Basically disclaimers)
 
 `*` <span id='footnote1' ></span> I'm the author of [NimbleText](https://NimbleText.com/Live). Of course I put it first on the list. If I didn't personally rate it I wouldn't have spent so much time making and improving it.
 
