@@ -75,8 +75,8 @@ Here are some awesome tools for dealing with CSV:
 # Meta: Other Lists of CSV Tools and References
 
 * [structured-text-tools](https://github.com/dbohdan/structured-text-tools): List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc
- * [META-META](https://github.com/secretGeek/AwesomeCSV/blob/master/README.md): This list as a CSV file
- * [META-META-META](http://NimbleText.com/Live/-1231784330): This list as a nimbletext Pattern that produces this markdown page from CSV
+ * [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv): This list as a CSV file
+ * [META-META-META]( http://NimbleText.com/Live/1687322290): This list as a nimbletext Pattern that produces this markdown page from CSV
 
 
 
