@@ -6,7 +6,7 @@ CSV remains the most futuristic data format from the distant past.
 
 XML has risen and fallen. JSON is just a flash in the pan. YAML is a poisoned chalice. **CSV will outlast them all.**
 
-When the final cockroach breathes her last breath, her dying act will be to scratch her date of death in a CSV file, for posterity.
+When the final cockroach breathes her last breath, her dying act will be to scratch her date of death in a CSV file for posterity.
 
 
 ## Contents
@@ -16,10 +16,11 @@ When the final cockroach breathes her last breath, her dying act will be to scra
   - [Treat CSV as SQL](#treat-csv-as-sql)
   - [Convert to or from CSV](#convert-to-or-from-csv)
   - [CSV <-> JSON](#csv---json)
-- [Awesome Data in CSV](#awesome-data-in-csv)
 - [Awesome CSV Essays](#awesome-csv-essays)
+- [Awesome Data in CSV](#awesome-data-in-csv)
 - [Awesome CSV Standards](#awesome-csv-standards)
 - [META: Other Lists of CSV Tools and References](#meta-other-lists-of-csv-tools-and-references)
+- [Awesome License](#awesome-license)
 - [Footnotes](#footnotes)
 
 
@@ -94,8 +95,15 @@ Here are some awesome tools for dealing with CSV:
 ## META: Other Lists of CSV Tools and References
 
 * [structured-text-tools](https://github.com/dbohdan/structured-text-tools): list of command line tools for manipulating CSV / XML / HTML / JSON / INI etc
-* [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv): this list as CSV
+* [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv): **this list as CSV**
 * [META-META-META](https://nimbletext.com/Live/-971009575/): a NimbleText pattern that produces this markdown page from this list as a CSV
+
+
+## Awesome License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Leon Bambrick](https://secretgeek.net) has waived all copyright and related or neighboring rights to this work.
 
 -----
 
@@ -107,3 +115,4 @@ Here are some awesome tools for dealing with CSV:
 `**` <span id='footnote2' ></span> I wrote `agnes` but don't really endorse it for others to use (thus haven't migrated the source code to github). It's slow and non-streaming. I'd go with `papa-parse`. On the plus side, `agnes` has a more comprehensive test suite and simpler api than most.
 
 `***` <span id='footnote3' ></span> Mine too.
+
