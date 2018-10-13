@@ -10,10 +10,12 @@ Here are some awesome tools for dealing with CSV:
 
 ## Awesome CSV Tools
 
-* [NimbleText/Live](https://NimbleText.com/Live)<sup><a href='#footnote1'><strong>*</strong></a></sup>: Use simple patterns to manipulate separated data into any shape you wish.
+* [NimbleText/Live](https://NimbleText.com/Live)<sup><a href='#footnote1'><strong>*</strong></a></sup>: Use patterns to manipulate CSV; the world's simplest code generator
 * [PapaParse](https://www.papaparse.com): A powerful, in-browser CSV parser
 * [CSVKit](http://csvkit.readthedocs.org/en/0.7.3/): CSV utilities that includes csvsql, csvgrep, csvstat, and more
 * [XSV](https://github.com/BurntSushi/xsv): A fast CSV command-line toolkit written in Rust
+* [sed (gnu tool)](https://www.gnu.org/software/sed/manual/sed.html): stream editor
+* [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html): text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html)
 * [Miller](http://johnkerl.org/miller/doc/): like sed, awk, cut, join, and sort for name-indexed data such as CSV
 * [ParaText](http://www.wise.io/tech/paratext): CSV parsing at 2.5 GB per second
 * [CSVGet](http://github.com/fizx/csvget/tree/master): Get structured data from sites as CSV
@@ -21,6 +23,7 @@ Here are some awesome tools for dealing with CSV:
 * [StreamingPivot](http://streamingpivot.com/): Pivot and visualize CSV data purely in the browser
 * [Tad](http://www.tadviewer.com):  A fast, free cross-platform CSV viewer
 * [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/): A tiny library for making charts from csv data
+* [CSV Tools](https://onlinecsvtools.com/): a collection of useful CSV utilities
 * [Mockaroo](https://www.mockaroo.com/): Random Data Generator for CSV / JSON / SQL / Excel
 
 ### Repair or Validate CSV
@@ -30,30 +33,31 @@ Here are some awesome tools for dealing with CSV:
 
 ### Treat CSV as SQL:
 
-* [TextQL](http://dinedal.github.io/textql/) Execute SQL Against CSV or TSV
+* [TextQL](http://dinedal.github.io/textql/): Execute SQL Against CSV or TSV
 * [Datasette Facets](https://simonwillison.net/2018/May/20/datasette-facets/): Faceted Browse and a JSON API for any CSV File or SQLite DB
 
 
 ### Convert to or from CSV:
 * [CSV to Table](https://github.com/vividvilla/csvtotable): Convert CSV files to searchable and sortable HTML table
 
-## CSV <-> JSON
+### CSV <-> JSON
 
 * [Agnes](http://www.secretgeek.net/agnes/twoWay.html)<sup><a href='#footnote2'><strong>**</strong></a></sup>: two way Csv to Json
+* [csv2json](https://www.csvjson.com/csv2json): Online tool to convert your CSV or TSV formatted data to JSON and [vice versa](https://www.csvjson.com/json2csv)
+
+### CSV Essays
+* [Thinking about CSV](https://blog.datacite.org/thinking-about-csv/): Martin Fenner
+* [In Praise of CSV](https://usopendata.org/2015/03/10/csv): Waldo Jaquith
+* [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble)<sup><a href='#footnote3'><strong>***</strong></a></sup>: Leon B
+* [So You Want To Write Your Own CSV code?](http://thomasburette.com/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/): Thomas Burette
 
 
-## CSV Essays
-* [Thinking about CSV](https://blog.datacite.org/thinking-about-csv/)
-* [In Praise of CSV](https://usopendata.org/2015/03/10/csv)
-* [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble)
+## Awesome Data in CSV
 
-
-
-## Reference Data in CSV
-
-See:
-* [Reference data in csv](https://datahub.io/collections/reference-data)
-
+* [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV): 18,789+ CSV datasets
+* [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV): 2,715+ CSV datasets
+* [Reference data in csv](https://datahub.io/collections/reference-data): Easy-to-use reference data in CSV and JSON formats
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): A topic-centric list of high-quality open datasets in public domains
 
 ## Awesome CSV Standards
 
@@ -63,22 +67,24 @@ See:
   * [Definition of the CSV Format](https://tools.ietf.org/html/rfc4180#section-2)
   * [MIME Type Registration of text/csv](https://tools.ietf.org/html/rfc4180#section-3)
 * [W3C: Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
-* [CSV Schema Language – A Language for Defining and Validating CSV Data](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html)
+* [CSV Schema Language](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html): A Language for Defining and Validating CSV Data
 
 * [CSV 1.1](https://csv11.github.io/) &mdash; CSV Evolved (for Humans) - Easy-to-Write, Easy-to-Read
 
 
 # Meta: Other Lists of CSV Tools and References
 
-* [List of command line tools for manipulating CSV, XML, HTML, JSON, INI, etc.](https://github.com/dbohdan/structured-text-tools)
+* [structured-text-tools](https://github.com/dbohdan/structured-text-tools): List of command line tools for manipulating CSV, XML, HTML, JSON, INI, etc
 * META: this list as csv
+* META-META: this list as a nimble text pattern that produces this file
 
-* [Awesome Comma-Separated Values (CSV) - What's Next? - Frequently Asked Questions (F.A.Q.s) - Libraries & Tools)](https://github.com/csv11/awesome-csv)
 
 
 
 -----
 
-`*` <span id='footnote1' ></span> I'm the author of NimbleText. Of course I put it first on the list. If I didn't personally rate it I wouldn't have spent so much time making and improving it!
+`*` <span id='footnote1' ></span> I'm the author of [NimbleText](https://NimbleText.com/Live). Of course I put it first on the list. If I didn't personally rate it I wouldn't have spent so much time making and improving it!
 
 `**` <span id='footnote2' ></span> I wrote Agnes but don't really endorse it for others to use (thus haven't migrated the source code to github). It's a slow and non-streaming. On the plus side, it has a more comprehensive test suite and simpler api than most.
+
+`***` <span id='footnote3' ></span> Mine too.
