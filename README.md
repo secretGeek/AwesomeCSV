@@ -91,7 +91,7 @@ Here are some awesome tools for dealing with CSV:
   * [MIME Type Registration of text/csv](https://tools.ietf.org/html/rfc4180#section-3)
 * [W3C: Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
 * [CSV Schema Language](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html): a language for defining and validating CSV data
-* [CSV 1.1](https://csv11.github.io/): CSV evolved (for Humans) - easy-to-write and easy-to-read
+* [csv,specs](https://github.com/csvspecs): Comma-Separated Values (CSV) Format Specifications (and Tests) incl. CSV v1.0, CSV v1.1, CSV Strict, CSV <3 Numerics, CSV<3 JSON, CSV <3 YAML
 
 ## META: Other Lists of CSV Tools and References
 
