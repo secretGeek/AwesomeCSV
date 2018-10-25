@@ -12,6 +12,7 @@ Awesome CSV Tools,CSVfix,https://code.google.com/p/csvfix/,"a tool for manipulat
 Awesome CSV Tools,StreamingPivot,http://streamingpivot.com/,"pivot and visualize CSV data purely in the browser"
 Awesome CSV Tools,Tad,http://www.tadviewer.com,"a fast free cross-platform CSV viewer"
 Awesome CSV Tools,Nvd3-tags,http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/,"a tiny library for making charts from csv data"
+Awesome CSV Tools,Powershell: Import-CSV,https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv,"Powerful in-built facility for dealing with CSV"
 Awesome CSV Tools,CSV Tools,https://onlinecsvtools.com/,"a collection of useful CSV utilities"
 Awesome CSV Tools,Mockaroo,https://www.mockaroo.com/,"random data generator for CSV / JSON / SQL / Excel"
 Repair or Validate CSV,Csvlint.go,https://github.com/Clever/csvlint,"Command line tool for validating CSV files against RFC 4180"

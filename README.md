@@ -42,6 +42,7 @@ Here are some awesome tools for dealing with CSV:
 * [StreamingPivot](http://streamingpivot.com/): pivot and visualize CSV data purely in the browser
 * [Tad](http://www.tadviewer.com): a fast free cross-platform CSV viewer
 * [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/): a tiny library for making charts from csv data
+* [Powershell: Import-CSV](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv): Powerful in-built facility for dealing with CSV
 * [CSV Tools](https://onlinecsvtools.com/): a collection of useful CSV utilities
 * [Mockaroo](https://www.mockaroo.com/): random data generator for CSV / JSON / SQL / Excel
 
