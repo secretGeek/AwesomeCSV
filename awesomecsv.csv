@@ -31,6 +31,7 @@ Awesome Data in CSV,US Data.gov,https://catalog.data.gov/dataset?res_format=CSV,
 Awesome Data in CSV,Australian Government Open Data,https://data.gov.au/dataset?res_format=CSV,"2715+ CSV datasets"
 Awesome Data in CSV,Reference data in csv,https://datahub.io/collections/reference-data,"easy-to-use reference data in CSV and JSON formats"
 Awesome Data in CSV,awesome-public-datasets,https://github.com/awesomedata/awesome-public-datasets,"a topic-centric list of high-quality open datasets in public domains"
+Awesome Conferences About CSV,"csv,conf",https://csvconf.com/,"A community conference for data makers everywhere"
 Awesome CSV Standards,RFC 4180,https://tools.ietf.org/html/rfc4180,"*Common Format and MIME Type for Comma-Separated Values (CSV) Files*"
 Awesome CSV Standards,Definition of the CSV Format,https://tools.ietf.org/html/rfc4180#section-2,"definition"
 Awesome CSV Standards,MIME Type Registration of text/csv,https://tools.ietf.org/html/rfc4180#section-3,"mime-type"

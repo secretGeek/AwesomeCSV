@@ -18,6 +18,7 @@ When the final cockroach breathes her last breath, her dying act will be to scra
   - [CSV <-> JSON](#csv---json)
 - [Awesome CSV Essays](#awesome-csv-essays)
 - [Awesome Data in CSV](#awesome-data-in-csv)
+- [Awesome Conferences About CSV](#awesome-conferences-about-csv)
 - [Awesome CSV Standards](#awesome-csv-standards)
 - [META: Other Lists of CSV Tools and References](#meta-other-lists-of-csv-tools-and-references)
 - [Awesome License](#awesome-license)
@@ -80,6 +81,10 @@ Here are some awesome tools for dealing with CSV:
 * [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV): 2715+ CSV datasets
 * [Reference data in csv](https://datahub.io/collections/reference-data): easy-to-use reference data in CSV and JSON formats
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): a topic-centric list of high-quality open datasets in public domains
+
+## Awesome Conferences About CSV
+
+* [csv,conf](https://csvconf.com/): A community conference for data makers everywhere
 
 
 ## Awesome CSV Standards
