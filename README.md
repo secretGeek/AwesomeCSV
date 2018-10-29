@@ -46,6 +46,7 @@ Here are some awesome tools for dealing with CSV:
 * [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/): a tiny library for making charts from csv data
 * [Powershell: Import-CSV](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv): Powerful in-built facility for dealing with CSV
 * [CSV Tools](https://onlinecsvtools.com/): a collection of useful CSV utilities
+* [graph-cli](https://github.com/mcastorina/graph-cli): Flexible command line tool to create graphs from CSV data
 * [Mockaroo](https://www.mockaroo.com/): random data generator for CSV / JSON / SQL / Excel
 
 ### Repair or Validate CSV
@@ -124,4 +125,6 @@ To the extent possible under law, [Leon Bambrick](https://secretgeek.net) has wa
 `**` <span id='footnote2' ></span> I wrote `agnes` but don't really endorse it for others to use (thus haven't migrated the source code to github). It's slow and non-streaming. I'd go with `papa-parse`. On the plus side, `agnes` has a more comprehensive test suite and simpler api than most.
 
 `***` <span id='footnote3' ></span> Mine too.
+
+
 
