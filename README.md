@@ -47,6 +47,8 @@ Here are some awesome tools for dealing with CSV:
 * [Powershell: Import-CSV](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv): Powerful in-built facility for dealing with CSV
 * [CSV Tools](https://onlinecsvtools.com/): a collection of useful CSV utilities
 * [graph-cli](https://github.com/mcastorina/graph-cli): Flexible command line tool to create graphs from CSV data
+* [CSV to SQL](http://www.convertcsv.com/csv-to-sql.htm): Online tool to create insert/update/delete etc from CSV data
+* [C#: kbCSV](https://github.com/kentcb/KBCsv/blob/master/README.md): An efficient, easy to use .NET parsing and writing library for CSV
 * [Mockaroo](https://www.mockaroo.com/): random data generator for CSV / JSON / SQL / Excel
 
 ### Repair or Validate CSV
