@@ -22,6 +22,8 @@ When the final cockroach breathes her last breath, her dying act will be to scra
 - [Awesome CSV Standards](#awesome-csv-standards)
 - [META: Other Lists of CSV Tools and References](#meta-other-lists-of-csv-tools-and-references)
 - [Awesome License](#awesome-license)
+- [Awesome Code of Conduct](code-of-conduct.md)
+- [Awesome Codntributing guide](contributing.md)
 - [Footnotes](#footnotes)
 
 
