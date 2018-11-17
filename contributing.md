@@ -17,7 +17,7 @@ You'll need a [GitHub account](https://github.com/join)!
 
 ## Content of changes
 
-Please be consistent with other items on the list. Include a link, with a short title, followed by a colon and a description of the thing you're linking to.
+Please be consistent with other items on the list. Include a link, with a short title, followed by a dash and a description of the item you're linking to.
 
 
 
