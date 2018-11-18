@@ -62,6 +62,7 @@ Here are some awesome tools for dealing with CSV:
 
 - [TextQL](http://dinedal.github.io/textql/) - Execute SQL against CSV or TSV.
 - [Datasette Facets](https://simonwillison.net/2018/May/20/datasette-facets/) - Faceted browse and a JSON API for any CSV File or SQLite DB.
+- [q](https://harelba.github.io/q/) - Text as data.
 
 
 ### Convert to or from CSV
@@ -82,6 +83,7 @@ Here are some awesome tools for dealing with CSV:
 - [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble)<sup><a href='#footnote3'><strong>***</strong></a></sup> - Leon B.
 - [So You Want To Write Your Own CSV code?](http://thomasburette.com/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/) - Thomas Burette.
 - [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - Jesse Donat.
+- [ASCII Delimited Text - Not CSV or TAB delimited text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/) - Ronald Duncan.
 
 ## Awesome Data in CSV
 
