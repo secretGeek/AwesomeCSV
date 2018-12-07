@@ -20,6 +20,7 @@ Awesome CSV Tools,CSV to SQL,http://www.convertcsv.com/csv-to-sql.htm,"Online to
 Awesome CSV Tools,C#: kbCSV,https://github.com/kentcb/KBCsv/blob/master/README.md,"An efficient, easy to use .NET parsing and writing library for CSV"
 Awesome CSV Tools,csvprintf,https://github.com/archiecobbs/csvprintf,"UNIX command line utility for parsing and formatting output based on CSV files"
 Awesome CSV Tools,Mockaroo,https://www.mockaroo.com/,"Random data generator for CSV / JSON / SQL / Excel"
+Awesome CSV Tools,Ron's CSV Editor,https://www.ronsplace.eu/products/ronseditor,Handles big files, does miraculous things. A timeless editor for a timeless format.
 Repair or Validate CSV,Csvlint.go,https://github.com/Clever/csvlint,"Command line tool for validating CSV files against RFC 4180"
 Repair or Validate CSV,csvstudio,http://www.csvstudio.com,"A smart app to repair syntax errors in very large CSV files"
 Treat CSV as SQL,TextQL,http://dinedal.github.io/textql/,"Execute SQL Against CSV or TSV"
