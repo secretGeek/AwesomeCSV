@@ -20,9 +20,8 @@ When the final cockroach breathes her last breath, her dying act will be to scra
 - [Awesome CSV Standards](#awesome-csv-standards)
 - [META: Other Lists of CSV Tools and References](#meta-other-lists-of-csv-tools-and-references)
 - [Code of Conduct](#code-of-conduct)
-- [Contributing](#contributing)
+- [Funtribute](#funtribute)
 - [Footnotes](#footnotes)
-- [License](#license)
 
 
 
@@ -121,17 +120,12 @@ Here are some awesome tools for dealing with CSV:
 See [Code of Conduct](code-of-conduct.md)
 
 
-## Contributing
+## Funtribute
 
-See [Contributing](contributing.md)
+To experience the fun of contributing, see [Contributing](contributing.md)
 
-
-
-
----
 
 ## Footnotes
-
 
 `*` <span id='footnote1' ></span> I'm the author of [NimbleText](https://NimbleText.com/Live). Of course I put it first on the list. If I didn't personally rate it I wouldn't have spent so much time making and improving it.
 
