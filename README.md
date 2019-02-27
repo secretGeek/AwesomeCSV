@@ -1,5 +1,7 @@
 # Awesome CSV [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## A carefully curated list of CSV-related tools and resources
+
 CSV remains the most futuristic data format from the distant past.
 
 XML has risen and fallen. JSON is just a flash in the pan. YAML is a poisoned chalice. **CSV will outlast them all.**
@@ -9,17 +11,17 @@ When the final cockroach breathes her last breath, her dying act will be to scra
 
 ## Contents
 
-- [Awesome CSV Tools](#awesome-csv-tools)
+- [Tools](#tools)
   - [Repair or Validate CSV](#repair-or-validate-csv)
   - [Treat CSV as SQL](#treat-csv-as-sql)
   - [Convert to or from CSV](#convert-to-or-from-csv)
   - [CSV <-> JSON](#csv---json)
-- [Awesome CSV Essays](#awesome-csv-essays)
-- [Awesome Data in CSV](#awesome-data-in-csv)
-- [Awesome Conferences About CSV](#awesome-conferences-about-csv)
-- [Awesome CSV Standards](#awesome-csv-standards)
-- [META: Other Lists of CSV Tools and References](#meta-other-lists-of-csv-tools-and-references)
-- [Code of Conduct](#code-of-conduct)
+- [Essays](#essays)
+- [Data](#data)
+- [Conferences](#conferences)
+- [Standards](#standards)
+- [META: Other similar lists](#meta-other-similar-lists)
+- [Code of conduct](#code-of-conduct)
 - [Funtribute](#funtribute)
 - [Footnotes](#footnotes)
 
@@ -27,7 +29,7 @@ When the final cockroach breathes her last breath, her dying act will be to scra
 
 Here are some awesome tools for dealing with CSV:
 
-## Awesome CSV Tools
+## Tools
 
 - [NimbleText/Live](https://NimbleText.com/Live)<sup><a href='#footnote1'><strong>*</strong></a></sup> - Use patterns to manipulate CSV; the world's simplest code generator.
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
@@ -38,7 +40,7 @@ Here are some awesome tools for dealing with CSV:
 - [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html) - Text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html).
 - [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) - Comprehensive examples of using awk.
 - [Miller](http://johnkerl.org/miller/doc/) - Like sed / awk / cut / join / sort etc for name-indexed data such as CSV.
-- [ParaText](http://www.wise.io/tech/paratext) - CSV parsing at 2.5 GB per second.
+- [ParaText](https://github.com/wiseio/paratext) - CSV parsing at 2.5 GB per second.
 - [CSVGet](http://github.com/fizx/csvget/tree/master) - Get structured data from sites as CSV.
 - [CSVfix](https://code.google.com/p/csvfix/) - A tool for manipulating CSV data.
 - [StreamingPivot](http://streamingpivot.com/) - Pivot and visualize CSV data purely in the browser.
@@ -76,7 +78,7 @@ Here are some awesome tools for dealing with CSV:
 - [csv-to-json](https://mango-is.com/tools/csv-to-json/) - Easy, privacy-friendly and offline-first online csv to json converter.
 
 
-## Awesome CSV Essays
+## Essays
 
 - [Thinking about CSV](https://blog.datacite.org/thinking-about-csv/) - Martin Fenner.
 - [In Praise of CSV](https://usopendata.org/2015/03/10/csv) - Waldo Jaquith.
@@ -85,19 +87,19 @@ Here are some awesome tools for dealing with CSV:
 - [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - Jesse Donat.
 - [ASCII Delimited Text - Not CSV or TAB delimited text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/) - Ronald Duncan.
 
-## Awesome Data in CSV
+## Data
 
 - [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 - [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 - [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
 
-## Awesome Conferences About CSV
+## Conferences
 
 - [csv,conf](https://csvconf.com/) - A community conference for data makers everywhere.
 
 
-## Awesome CSV Standards
+## Standards
 
 > The wonderful thing about standards is that there are so many of them to choose from.<br />&mdash;(Possibly) Grace Hopper.
 
@@ -108,7 +110,7 @@ Here are some awesome tools for dealing with CSV:
 - [CSV Schema Language](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html) - A language for defining and validating CSV data.
 - [csv,specs](https://github.com/csvspecs) - Comma-Separated Values (CSV) Format Specifications (and Tests) incl. CSV v1.0, CSV v1.1, CSV Strict, CSV <3 Numerics, CSV<3 JSON, CSV <3 YAML.
 
-## META: Other Lists of CSV Tools and References
+## Meta: Other similar lists
 
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
 - [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv) - **This list as CSV**.
