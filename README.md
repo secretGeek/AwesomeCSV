@@ -2,7 +2,7 @@
 
 **A carefully curated list of CSV-related tools and resources**
 
-CSV remains the most futuristic data format from the distant past.
+[CSV](https://en.wikipedia.org/wiki/Comma-separated_values) remains the most futuristic data format from the distant past.
 
 XML has risen and fallen. JSON is just a flash in the pan. YAML is a poisoned chalice. **CSV will outlast them all.**
 
@@ -21,7 +21,7 @@ When the final cockroach breathes her last breath, her dying act will be to scra
 - [Conferences](#conferences)
 - [Standards](#standards)
 - [META: Other similar lists](#meta-other-similar-lists)
-- [Code of conduct](#code-of-conduct)
+- [Code of Conduct](#code-of-conduct)
 - [Funtribute](#funtribute)
 - [Footnotes](#footnotes)
 
@@ -43,7 +43,6 @@ Here are some awesome tools for dealing with CSV:
 - [ParaText](https://github.com/wiseio/paratext) - CSV parsing at 2.5 GB per second.
 - [CSVGet](http://github.com/fizx/csvget/tree/master) - Get structured data from sites as CSV.
 - [CSVfix](https://code.google.com/p/csvfix/) - A tool for manipulating CSV data.
-- [StreamingPivot](http://streamingpivot.com/) - Pivot and visualize CSV data purely in the browser.
 - [Tad](https://www.tadviewer.com) - A fast free cross-platform CSV viewer.
 - [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/) - A tiny library for making charts from csv data.
 - [Powershell: Import-CSV](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv) - Powerful in-built facility for dealing with CSV ([example](https://gist.github.com/dfinke/786ba9edae1b0265ada10b36a7a11ba9)).
@@ -75,7 +74,7 @@ Here are some awesome tools for dealing with CSV:
 
 ### CSV <-> JSON
 
-- [Agnes](http://www.secretgeek.net/agnes/twoWay.html) - two way Csv to Json **.
+- [Agnes](http://www.secretgeek.net/agnes/twoWay.html) - Two way Csv to Json **.
 - [csv2json](https://www.csvjson.com/csv2json) - online tool to convert your CSV or TSV formatted data to JSON and [vice versa](https://www.csvjson.com/json2csv).
 - [csv-to-json](https://mango-is.com/tools/csv-to-json/) - Easy, privacy-friendly and offline-first online csv to json converter.
 
