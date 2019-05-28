@@ -1,6 +1,6 @@
 # Awesome CSV [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## A carefully curated list of CSV-related tools and resources
+**A carefully curated list of CSV-related tools and resources**
 
 CSV remains the most futuristic data format from the distant past.
 
@@ -31,7 +31,7 @@ Here are some awesome tools for dealing with CSV:
 
 ## Tools
 
-- [NimbleText/Live](https://NimbleText.com/Live)<sup><a href='#footnote1'><strong>*</strong></a></sup> - Use patterns to manipulate CSV; the world's simplest code generator.
+- [NimbleText/Live](https://NimbleText.com/Live) - Use patterns to manipulate CSV; the world's simplest code generator *.
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
 - [d3-dsv](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
 - [CSVKit](http://csvkit.readthedocs.org/en/0.7.3/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
@@ -59,14 +59,14 @@ Here are some awesome tools for dealing with CSV:
 ### Repair or Validate CSV
 
 - [Csvlint.go](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
-- [csvstudio](http://www.csvstudio.com) - A smart app to repair syntax errors in very large CSV files.
+- [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 
 ### Treat CSV as SQL
 
 - [TextQL](http://dinedal.github.io/textql/) - Execute SQL against CSV or TSV.
 - [Datasette Facets](https://simonwillison.net/2018/May/20/datasette-facets/) - Faceted browse and a JSON API for any CSV File or SQLite DB.
 - [q](https://harelba.github.io/q/) - Text as data.
-- [RBQL](https://rbql.org) - Rainbow Query Language - SQL-like language with JavaScript or Python backend 
+- [RBQL](https://rbql.org) - Rainbow Query Language, a SQL-like language with JavaScript or Python backend.
 
 
 ### Convert to or from CSV
@@ -75,7 +75,7 @@ Here are some awesome tools for dealing with CSV:
 
 ### CSV <-> JSON
 
-- [Agnes](http://www.secretgeek.net/agnes/twoWay.html)<sup><a href='#footnote2'><strong>**</strong></a></sup> - two way Csv to Json.
+- [Agnes](http://www.secretgeek.net/agnes/twoWay.html) - two way Csv to Json **.
 - [csv2json](https://www.csvjson.com/csv2json) - online tool to convert your CSV or TSV formatted data to JSON and [vice versa](https://www.csvjson.com/json2csv).
 - [csv-to-json](https://mango-is.com/tools/csv-to-json/) - Easy, privacy-friendly and offline-first online csv to json converter.
 
@@ -84,7 +84,7 @@ Here are some awesome tools for dealing with CSV:
 
 - [Thinking about CSV](https://blog.datacite.org/thinking-about-csv/) - Martin Fenner.
 - [In Praise of CSV](https://usopendata.org/2015/03/10/csv) - Waldo Jaquith.
-- [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble)<sup><a href='#footnote3'><strong>***</strong></a></sup> - Leon B.
+- [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble) - Leon Bambrick ***.
 - [So You Want To Write Your Own CSV code?](http://thomasburette.com/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/) - Thomas Burette.
 - [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - Jesse Donat.
 - [ASCII Delimited Text - Not CSV or TAB delimited text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/) - Ronald Duncan.
@@ -112,7 +112,7 @@ Here are some awesome tools for dealing with CSV:
 - [CSV Schema Language](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html) - A language for defining and validating CSV data.
 - [csv,specs](https://github.com/csvspecs) - Comma-Separated Values (CSV) Format Specifications (and Tests) incl. CSV v1.0, CSV v1.1, CSV Strict, CSV <3 Numerics, CSV<3 JSON, CSV <3 YAML.
 
-## Meta: Other similar lists
+## META: Other similar lists
 
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
 - [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv) - **This list as CSV**.
