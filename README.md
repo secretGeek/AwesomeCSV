@@ -81,6 +81,11 @@ Here are some awesome tools for dealing with CSV:
 
 ## Essays
 
+> Once you've found the perfect data serialization file format, you stop looking
+>
+> [David Wengier](https://twitter.com/davidwengier/status/1159606464220000257)
+
+
 - [Thinking about CSV](https://blog.datacite.org/thinking-about-csv/) - Martin Fenner.
 - [In Praise of CSV](https://usopendata.org/2015/03/10/csv) - Waldo Jaquith.
 - [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble) - Leon Bambrick ***.
