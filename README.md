@@ -61,6 +61,11 @@ Here are some awesome tools for dealing with CSV:
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 
+## Generate Table Schema
+
+- [CSV Schema](https://csv-schema.surge.sh/) &mdash; Analyzes a CSV file and generates database table schema, all within the browser
+- Wanted: More tools in this category.
+
 
 ### Treat CSV as SQL
 
