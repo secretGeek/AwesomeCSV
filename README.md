@@ -59,12 +59,14 @@ Here are some awesome tools for dealing with CSV:
 
 - [Csvlint.go](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
+- [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
+
 
 ### Treat CSV as SQL
 
 - [TextQL](http://dinedal.github.io/textql/) - Execute SQL against CSV or TSV.
 - [Datasette Facets](https://simonwillison.net/2018/May/20/datasette-facets/) - Faceted browse and a JSON API for any CSV File or SQLite DB.
-- [q](https://harelba.github.io/q/) - Text as data.
+- [q](https://harelba.github.io/q/) - Run SQL Directly on CSV Files
 - [RBQL](https://rbql.org) - Rainbow Query Language, a SQL-like language with JavaScript or Python backend.
 
 
