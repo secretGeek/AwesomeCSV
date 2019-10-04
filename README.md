@@ -73,7 +73,7 @@ Here are some awesome tools for dealing with CSV:
 - [Datasette Facets](https://simonwillison.net/2018/May/20/datasette-facets/) - Faceted browse and a JSON API for any CSV File or SQLite DB.
 - [q](https://harelba.github.io/q/) - Run SQL Directly on CSV Files
 - [RBQL](https://rbql.org) - Rainbow Query Language, a SQL-like language with JavaScript or Python backend.
-
+- [PSKit Query](https://github.com/dfinke/PSKit#sql-query) &mdash; Powershell module lets you run simple queries over objects, including imported with csv
 
 ### Convert to or from CSV
 
