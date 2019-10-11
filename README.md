@@ -123,6 +123,7 @@ Here are some awesome tools for dealing with CSV:
 - [W3C: Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
 - [CSV Schema Language](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html) - A language for defining and validating CSV data.
 - [csv,specs](https://github.com/csvspecs) - Comma-Separated Values (CSV) Format Specifications (and Tests) incl. CSV v1.0, CSV v1.1, CSV Strict, CSV <3 Numerics, CSV<3 JSON, CSV <3 YAML.
+- [Tabular Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) - A [Data Resource](http://frictionlessdata.io/specs/data-resource/) specialized for describing tabular data like CSV files or spreadsheets
 - [CSVY](https://csvy.org/) - A standard for adding a YAML header to CSV files to describe their format
 
 ## META: Other similar lists
