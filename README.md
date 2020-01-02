@@ -55,6 +55,7 @@ Here are some awesome tools for dealing with CSV:
 - [Ron's CSV Editor](https://www.ronsplace.eu/products/ronseditor) - Handles big files, does miraculous things. A timeless editor for a timeless format.
 - [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
 - [Mighty Merge](https://mightymerge.io/) - join/union csv files.
+- [CleverCSV](https://https://github.com/alan-turing-institute/clevercsv) - State-of-the-art dialect detection for CSV files, with a handy command line interface.
 
 ### Repair or Validate CSV
 
@@ -101,6 +102,7 @@ Here are some awesome tools for dealing with CSV:
 - [So You Want To Write Your Own CSV code?](http://thomasburette.com/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/) - Thomas Burette.
 - [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - Jesse Donat.
 - [ASCII Delimited Text - Not CSV or TAB delimited text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/) - Ronald Duncan.
+- [Handling Messy CSV Files](https://towardsdatascience.com/handling-messy-csv-files-2ef829aa441d) - Gerrit J.J. van den Burg.
 
 ## Data
 
