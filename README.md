@@ -118,7 +118,7 @@ Here are some awesome tools for dealing with CSV:
 
 > The wonderful thing about standards is that there are so many of them to choose from.<br />&mdash;(Possibly) Grace Hopper.
 
-- [RFC 4180](https://tools.ietf.org/html/rfc4180) - "*Common format and MIME Type for Comma-Separated Values (CSV) Files*".
+- [RFC 4180](https://tools.ietf.org/html/rfc4180) ([html version](http://www.faqs.org/rfcs/rfc4180.html)) - "*Common format and MIME Type for Comma-Separated Values (CSV) Files*".
   - [Definition of the CSV Format](https://tools.ietf.org/html/rfc4180#section-2)
   - [MIME Type Registration of text/csv](https://tools.ietf.org/html/rfc4180#section-3)
 - [W3C: Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
