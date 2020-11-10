@@ -80,6 +80,7 @@ Here are some awesome tools for dealing with CSV:
 ### Convert to or from CSV
 
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
+- [CSV Reader](https://github.com/rubenvar/csv-reader) - A browser extension that transforms CSV into a readable HTML table, online and in the same tab.
 
 ### CSV <-> JSON
 
