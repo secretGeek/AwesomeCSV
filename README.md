@@ -49,6 +49,7 @@ Here are some awesome tools for dealing with CSV:
 - [CSV Tools](https://onlinecsvtools.com/) - A collection of useful CSV utilities.
 - [graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data.
 - [CSV to SQL](http://www.convertcsv.com/csv-to-sql.htm) - Online tool to create insert/update/delete etc from CSV data.
+- [SimpleLocalize](https://simplelocalize.io) - Cloud based translation management system for managing translations. Supports CSV.
 - [C#: kbCSV](https://github.com/kentcb/KBCsv/blob/master/README.md) - An efficient, easy to use .NET parsing and writing library for CSV.
 - [csvprintf](https://github.com/archiecobbs/csvprintf) - UNIX command line utility for parsing and formatting output based on CSV files.
 - [Mockaroo](https://www.mockaroo.com/) - Random data generator for CSV / JSON / SQL / Excel.
