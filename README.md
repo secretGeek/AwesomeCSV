@@ -109,6 +109,7 @@ Here are some awesome tools for dealing with CSV:
 - [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
 - [United Nations data](https://data.un.org) - Data from the UN
+- [Fake Name Generator](https://www.fakenamegenerator.com/order.php) - Generate fake names with other identity data in bulk for testing.
 
 ## Conferences
 
