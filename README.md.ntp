@@ -1,0 +1,59 @@
+$ONCE<% var curr, res, prev; %># Awesome CSV [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+**A carefully curated list of CSV-related tools and resources**
+
+[CSV](https://en.wikipedia.org/wiki/Comma-separated_values) remains the most futuristic data format from the distant past.
+
+XML has risen and fallen. JSON is just a flash in the pan. YAML is a poisoned chalice. **CSV will outlast them all.**
+
+When the final cockroach breathes her last breath, her dying act will be to scratch her date of death in a CSV file for posterity.
+
+
+## Contents
+
+Here are some awesome tools for dealing with CSV:
+<%  doc.curr = ''; %>$EACH+
+<%  
+var curr, res, prev;
+curr = doc.curr;
+res = '';
+prev = curr;
+curr = $0;
+ doc.curr = curr; 
+if (prev != curr) {
+  res += '\n## ' + $0 + '\n\n';
+	if (curr == 'Essays') {
+	  res += '> Once you\'ve found the perfect data serialization file format, you stop looking\n>\n> [David Wengier](https://twitter.com/davidwengier/status/1159606464220000257)\n\n\n'
+	} else if (curr == 'Generate Table Schema') {
+		res += '> Wanted: More tools in this category.\n\n'
+	} else if (curr == 'Standards') {
+		res += '> The wonderful thing about standards is that there are so many of them to choose from.<br />&mdash;(Possibly) Grace Hopper.\n\n'
+	}
+}
+res;
+%>- [$1]($2) - <% $3.replace(/"/g, "") %>
+$ONCE## Code of Conduct
+
+See [Code of Conduct](code-of-conduct.md)
+
+
+## Funtribute
+
+To experience the fun of contributing, see [Contributing](contributing.md)
+
+
+## Footnotes
+
+`*` <span id='footnote1' ></span> I'm the author of [NimbleText](https://NimbleText.com/Live). Of course I put it first on the list. If I didn't personally rate it I wouldn't have spent so much time making and improving it.
+
+`**` <span id='footnote2' ></span> I wrote `agnes` but don't really endorse it for others to use (thus haven't migrated the source code to GitHub). It's slow and non-streaming. I'd go with `papa-parse`. On the plus side, `agnes` has a more comprehensive test suite and simpler api than most.
+
+`***` <span id='footnote3' ></span> Mine too.
+
+`****` <span id='footnote4' ></span> Again.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Leon Bambrick](http://secretgeek.net) has waived all copyright and related or neighboring rights to this work.
