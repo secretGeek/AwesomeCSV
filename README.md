@@ -34,7 +34,7 @@ Here are some awesome tools for dealing with CSV:
 - [NimbleText/Live](https://NimbleText.com/Live) - Use patterns to manipulate CSV; the world's simplest code generator *.
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
 - [d3-dsv](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
-- [CSVKit](http://csvkit.readthedocs.org/en/0.7.3/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
+- [CSVKit](https://csvkit.readthedocs.io/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
 - [XSV](https://github.com/BurntSushi/xsv) - A fast CSV command-line toolkit written in Rust.
 - [sed (gnu tool)](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor.
 - [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html) - Text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html).
