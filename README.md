@@ -57,6 +57,7 @@ Here are some awesome tools for dealing with CSV:
 - [ExtendsClass](https://extendsclass.com/csv-diff.html) - A simple CSV comparator.
 - [Mighty Merge](https://mightymerge.io/) - join/union csv files.
 - [Modern CSV](https://www.moderncsv.com/) - A tool for editing CSV files and viewing large files.
+- [ScrollSets](https://scroll.pub/blog/scrollsets.html) - Source code for CSVs.
 
 ### Repair or Validate CSV
 
