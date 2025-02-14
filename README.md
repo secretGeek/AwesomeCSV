@@ -57,6 +57,7 @@ Here are some awesome tools for dealing with CSV:
 - [ExtendsClass](https://extendsclass.com/csv-diff.html) - A simple CSV comparator.
 - [Mighty Merge](https://mightymerge.io/) - join/union csv files.
 - [Modern CSV](https://www.moderncsv.com/) - A tool for editing CSV files and viewing large files.
+- [CsvPath Framework](https://www.csvpath.org/) - A DataOps framework for automating tabular data onboarding at scale. ([Repo](https://github.com/csvpath/csvpath))
 
 ### Repair or Validate CSV
 
@@ -130,6 +131,7 @@ Here are some awesome tools for dealing with CSV:
 - [csv,specs](https://github.com/csvspecs) - Comma-Separated Values (CSV) Format Specifications (and Tests) incl. CSV v1.0, CSV v1.1, CSV Strict, CSV <3 Numerics, CSV<3 JSON, CSV <3 YAML.
 - [Tabular Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) - A [Data Resource](http://frictionlessdata.io/specs/data-resource/) specialized for describing tabular data like CSV files or spreadsheets
 - [CSVY](https://csvy.org/) - A standard for adding a YAML header to CSV files to describe their format
+- [CsvPath Validation Language](https://www.csvpath.org/topics/validation/schemas-or-rules) - A CSV validation language drawing inspiration from both DDL and Schematron
 
 ## META: Other similar lists
 
