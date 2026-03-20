@@ -57,6 +57,7 @@ Here are some awesome tools for dealing with CSV:
 - [Mighty Merge](https://mightymerge.io/) - join/union csv files.
 - [Modern CSV](https://www.moderncsv.com/) - A tool for editing CSV files and viewing large files.
 - [Data Wrangler](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
+- [nless](https://github.com/mpryor/nothing-less) - Terminal pager for exploring tabular data with vi keybindings and automatic delimiter inference.
 
 ### Repair or Validate CSV
 
