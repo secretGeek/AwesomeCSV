@@ -73,6 +73,7 @@ Here are some awesome tools for dealing with CSV:
 
 ### Treat CSV as SQL
 
+- [CSV to SQL](https://aiforeverthing.com/tools/csv-to-sql.html) - Convert CSV data to SQL INSERT statements online. Free, no signup required.
 - [TextQL](http://dinedal.github.io/textql/) - Execute SQL against CSV or TSV.
 - [Datasette Facets](https://simonwillison.net/2018/May/20/datasette-facets/) - Faceted browse and a JSON API for any CSV File or SQLite DB.
 - [q](https://harelba.github.io/q/) - Run SQL Directly on CSV Files
