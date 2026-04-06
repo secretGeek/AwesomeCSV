@@ -9,6 +9,7 @@ XML has risen and fallen. JSON is just a flash in the pan. YAML is a poisoned ch
 When the final cockroach breathes her last breath, her dying act will be to scratch her date of death in a CSV file for posterity.
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for CSV data processing workflow orchestration, automated data pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Tools](#tools)
