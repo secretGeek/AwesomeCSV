@@ -58,6 +58,7 @@ Here are some awesome tools for dealing with CSV:
 - [Modern CSV](https://www.moderncsv.com/) - A tool for editing CSV files and viewing large files.
 - [Data Wrangler](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
 - [CSV to SQL](https://monapdx.github.io/Frontend-Widgets/csv-to-sql.html) - Upload a CSV file, set a table name, and generate SQL inserts instantly.
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ### Repair or Validate CSV
 
