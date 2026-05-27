@@ -31,6 +31,7 @@ Here are some awesome tools for dealing with CSV:
 
 ## Tools
 
+- [CSV Toolkit](https://csvtojsonconverter.com/csv-tools/) - Free browser-based CSV tools: convert, format, validate, split, sort, clean and more. No file upload required.
 - [NimbleText/Live](https://NimbleText.com/Live) - Use patterns to manipulate CSV; the world's simplest code generator *.
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
 - [d3-dsv](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
