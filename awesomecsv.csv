@@ -74,6 +74,7 @@ Tools,"Ron's CSV Editor",https://www.ronsplace.eu/products/ronseditor,"Handles b
 Tools,Rainbow CSV plugins,https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors,"Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors."
 Tools,Mighty Merge,https://mightymerge.io/,"Join/union CSV files."
 Tools,VisiData,https://www.visidata.org/,"Interactive, powerful, high-throughput csv explorer/manipulator, right in your terminal."
+Tools,CSVall,https://csvall.com,"A free, privacy-first browser-based toolkit to convert, clean, transform and analyze CSV; files are processed locally and never leave your device, with support for Excel / JSON / XML / Markdown and finance formats (OFX / QBO / QFX / QIF / MT940 / CAMT)."
 Repair or Validate CSV,Csvlint.go,https://github.com/Clever/csvlint,"Command line tool for validating CSV files against RFC 4180."
 Repair or Validate CSV,csvstudio,http://www.csvstudio.com,"A smart app to repair syntax errors in very large CSV files."
 Repair or Validate CSV,scrubcsv,https://github.com/faradayio/scrubcsv,"Remove bad records from a CSV file and normalize (requires rust)."
