@@ -83,6 +83,7 @@ Here are some awesome tools for dealing with CSV:
 ### Convert to or from CSV
 
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
+- [PDFExcel](https://pdfexcel.ai) - AI tool that converts PDFs — including scanned and photographed documents — into CSV, Excel, or Google Sheets without templates.
 
 ### CSV <-> JSON
 
