@@ -120,6 +120,7 @@ Here are some awesome tools for dealing with CSV:
 - [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 - [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
+- [Digital Product Seller Ledger Sample](https://ronnie2025.github.io/xianyu-virtual-product-ledger-sample/) - Example CSV/XLSX order ledger for digital-product sellers, covering sales, fees, costs, fulfillment status and weekly review.
 - [United Nations data](https://data.un.org) - Data from the UN
 
 ## Conferences
