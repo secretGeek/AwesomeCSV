@@ -121,6 +121,7 @@ Here are some awesome tools for dealing with CSV:
 - [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
 - [United Nations data](https://data.un.org) - Data from the UN
+- [Prestyj Lead Response & AI Sales Statistics](https://prestyj.com/data/statistics.csv) - 58 cite-worthy statistics on speed-to-lead, video advertising, AI adoption in sales, and CPL by industry. Sourced rows, permalinks, CC BY 4.0.
 
 ## Conferences
 
