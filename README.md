@@ -84,6 +84,7 @@ Here are some awesome tools for dealing with CSV:
 
 ### Convert to or from CSV
 
+- [csv-pipe](https://github.com/martsinlabs/csv-pipe) - Typed, zero-dependency CSV parser and encoder for TypeScript and JavaScript.
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
 
 ### CSV <-> JSON
