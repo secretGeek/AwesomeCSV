@@ -85,6 +85,7 @@ Here are some awesome tools for dealing with CSV:
 ### Convert to or from CSV
 
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
+- [Excel to Markdown](https://exceltomd.com/csv-to-markdown) - Convert CSV files to Markdown tables locally in the browser, with no account or upload required.
 
 ### CSV <-> JSON
 
