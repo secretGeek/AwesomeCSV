@@ -105,6 +105,7 @@ Here are some awesome tools for dealing with CSV:
 - [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble) - Leon Bambrick ***.
 - [So You Want To Write Your Own CSV code?](http://thomasburette.com/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/) - Thomas Burette.
 - [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - Jesse Donat.
+- [StructEval](https://arxiv.org/abs/2505.20139) - TMLR 2025 benchmark for LLM generation and conversion across structured formats, including CSV, with [open-source code](https://github.com/TIGER-AI-Lab/StructEval).
 - [ASCII Delimited Text - Not CSV or TAB delimited text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/) - Ronald Duncan.
 
 ## Generate Data
