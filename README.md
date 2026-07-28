@@ -63,6 +63,7 @@ Here are some awesome tools for dealing with CSV:
 
 ### Repair or Validate CSV
 
+- [Agentsor File Contracts](https://github.com/linkoinsight/agentsor-file) - Command-line validator for completed CSV files against explicit TOML contracts for required columns, Arrow types, row and byte bounds, and freshness.
 - [Csvlint.go](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
