@@ -85,6 +85,7 @@ Here are some awesome tools for dealing with CSV:
 ### Convert to or from CSV
 
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
+- [Bank Statement to CSV](https://nutilz.com/bank-statement-to-csv) - Free browser-based tool that extracts transactions from bank statement PDFs into a clean CSV — parsing runs entirely client-side, nothing is uploaded to a server.
 
 ### CSV <-> JSON
 
