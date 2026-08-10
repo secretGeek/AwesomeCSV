@@ -67,6 +67,7 @@ Here are some awesome tools for dealing with CSV:
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
+- [csv-cleanroom](https://github.com/sdxiaomage/excel-automation-demo) - Zero-dependency CLI for merging, deduplicating, validating, enriching, and reconciling CSV files with traceable exceptions.
 
 ## Generate Table Schema
 
