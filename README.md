@@ -83,6 +83,7 @@ Here are some awesome tools for dealing with CSV:
 - [PSKit Query](https://github.com/dfinke/PSKit#sql-query) &mdash; Powershell module lets you run simple queries over objects, including imported with csv
 
 ### Convert to or from CSV
+- [Instant Data Converter](https://instant-data-converter.vercel.app) - Free in-browser CSV/TSV/JSON/JSONL converter plus line tools (sort, dedupe, case converter).
 
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
 
