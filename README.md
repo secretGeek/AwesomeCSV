@@ -63,6 +63,7 @@ Here are some awesome tools for dealing with CSV:
 
 ### Repair or Validate CSV
 
+- [CSV SafeCheck](https://github.com/ReconcileKit/csv-safecheck) - Offline browser-local preflight for a documented subset of current Shopify product CSV issues, with exact row and column findings and deterministic header-whitespace repair.
 - [Csvlint.go](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
