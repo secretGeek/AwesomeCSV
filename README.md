@@ -37,6 +37,7 @@ Here are some awesome tools for dealing with CSV:
 - [CSVKit](https://csvkit.readthedocs.io/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
 - [QSV](https://github.com/dathere/qsv) - A fast CSV command-line toolkit written in Rust, (an update to xsv).
 - [sed (gnu tool)](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor.
+- [HowToCSV](https://howtocsv.com) - Platform with 90+ tools for managing spreadsheets, from conversion to visualization and forecasting, directly in the browser.
 - [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html) - Text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html).
 - [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) - Comprehensive examples of using awk.
 - [Miller](http://johnkerl.org/miller/doc/) - Like sed / awk / cut / join / sort etc for name-indexed data such as CSV.
