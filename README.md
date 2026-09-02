@@ -60,6 +60,10 @@ Here are some awesome tools for dealing with CSV:
 - [Data Wrangler](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
 - [CSV to SQL](https://monapdx.github.io/Frontend-Widgets/csv-to-sql.html) - Upload a CSV file, set a table name, and generate SQL inserts instantly.
 - [SmoothCSV](https://smoothcsv.com) - A fast, powerful, and intuitive CSV editor for Mac, Windows, and Linux.
+- [xled](https://excelano.com/xled/) - sed and awk for CSV: awk's field model and sed's `s///` substitution over Excel-style column and row ranges, with a live preview before anything is written.
+- [xray](https://excelano.com/xray/) - Read-only profiler for an unfamiliar CSV; one pass reports its shape, what each column really holds, and what will bite you before you clean or query it.
+- [xshape](https://excelano.com/xshape/) - Reshapes a table's geometry - pivot, unpivot, split, merge, transpose - without changing, filtering, or aggregating any value.
+- [Comma](https://excelano.com/comma/) - A native GNOME desktop editor for Linux; shows a delimited file as a grid and saves it back byte-for-byte, leaving untouched rows unchanged.
 
 ### Repair or Validate CSV
 
