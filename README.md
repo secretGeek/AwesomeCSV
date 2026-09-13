@@ -85,6 +85,7 @@ Here are some awesome tools for dealing with CSV:
 ### Convert to or from CSV
 
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
+- [Calendar Repeat](https://calendar-repeat.bigdawgishere.chatgpt.site) - Offline browser CSV-to-ICS converter for recurring events and skipped dates. Free examples; $9 download.
 
 ### CSV <-> JSON
 
