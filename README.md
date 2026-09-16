@@ -170,3 +170,5 @@ To experience the fun of contributing, see [Contributing](contributing.md)
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Leon Bambrick](http://secretgeek.net) has waived all copyright and related or neighboring rights to this work.
+
+- [JSON to CSV Converter](https://jsontocsvtool.com) — Browser-based, no file upload; conversion runs locally. Reference docs and sample data in [this repo](https://github.com/yangfanrc-cpu/json-to-csv-converter).
