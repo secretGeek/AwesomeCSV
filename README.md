@@ -32,6 +32,7 @@ Here are some awesome tools for dealing with CSV:
 ## Tools
 
 - [NimbleText/Live](https://NimbleText.com/Live) - Use patterns to manipulate CSV; the world's simplest code generator *.
+- [PayoutSift](https://liutingqiu.github.io/payoutsift/) - Reconcile transaction, processor-payout, and bank-deposit CSV exports locally into an HTML review report plus JSON and CSV working papers.
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
 - [d3-dsv](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
 - [CSVKit](https://csvkit.readthedocs.io/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
