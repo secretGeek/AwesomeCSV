@@ -85,6 +85,7 @@ Here are some awesome tools for dealing with CSV:
 ### Convert to or from CSV
 
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
+- [Schedule File Converter](https://thepmtoolbox.com/tools/schedule-file-converter) - Convert a project schedule between CSV, Microsoft Project XML and Primavera P6 XER, entirely in the browser.
 
 ### CSV <-> JSON
 
