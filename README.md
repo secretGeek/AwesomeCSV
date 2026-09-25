@@ -85,6 +85,7 @@ Here are some awesome tools for dealing with CSV:
 ### Convert to or from CSV
 
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
+- [ParquetView](https://ggyg5gxksw.page.coze.site) - Convert Parquet files to CSV (and JSON) in the browser; privacy-first, the file is parsed locally and never uploaded.
 
 ### CSV <-> JSON
 
