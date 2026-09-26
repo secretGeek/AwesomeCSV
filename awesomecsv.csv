@@ -98,6 +98,7 @@ Data,US Data.gov,https://catalog.data.gov/dataset?res_format=CSV,"18789+ CSV dat
 Data,Australian Government Open Data,https://data.gov.au/dataset?res_format=CSV,"2715+ CSV datasets."
 Data,Reference data in csv,https://datahub.io/collections/reference-data,"Easy-to-use reference data in CSV and JSON formats."
 Data,awesome-public-datasets,https://github.com/awesomedata/awesome-public-datasets,"A topic-centric list of high-quality open datasets in public domains."
+Data,JSON to CSV conversion edge-case corpus,https://github.com/yangfanrc-cpu/json-to-csv-edge-cases,"27 hand-built inputs with byte-exact expected output, plus a runner that reports exactly where two converters disagree."
 Conferences,"csv,conf",https://csvconf.com/,"A community conference for data makers everywhere."
 Standards,RFC 4180,https://tools.ietf.org/html/rfc4180,"'Common format and MIME Type for Comma-Separated Values (CSV) Files'."
 Standards,Definition of the CSV Format,https://tools.ietf.org/html/rfc4180#section-2,"Definition."
