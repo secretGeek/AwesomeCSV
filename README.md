@@ -121,6 +121,7 @@ Here are some awesome tools for dealing with CSV:
 - [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
 - [United Nations data](https://data.un.org) - Data from the UN
+- [JSON to CSV conversion edge-case corpus](https://github.com/yangfanrc-cpu/json-to-csv-edge-cases) - 27 hand-built inputs with byte-exact expected output, plus a runner that reports exactly where two converters disagree.
 
 ## Conferences
 
