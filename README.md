@@ -106,6 +106,7 @@ Here are some awesome tools for dealing with CSV:
 - [So You Want To Write Your Own CSV code?](http://thomasburette.com/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/) - Thomas Burette.
 - [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - Jesse Donat.
 - [ASCII Delimited Text - Not CSV or TAB delimited text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/) - Ronald Duncan.
+- [How to Clean Messy CSV Data](https://testies1234321-afk.github.io/gch-services/guides/clean-messy-csv.html) - a practical guide to fixing common CSV problems: inconsistent delimiters, bad encodings, and stray quote characters.
 
 ## Generate Data
 
