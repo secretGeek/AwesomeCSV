@@ -30,6 +30,7 @@ When the final cockroach breathes her last breath, her dying act will be to scra
 Here are some awesome tools for dealing with CSV:
 
 ## Tools
+- [Formaty](https://formaty.dev) - Format, compare, dedupe, query and convert CSV (and JSON/YAML/XML/TOML) entirely in the browser - local-first, nothing is uploaded.
 
 - [NimbleText/Live](https://NimbleText.com/Live) - Use patterns to manipulate CSV; the world's simplest code generator *.
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
