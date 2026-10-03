@@ -61,6 +61,8 @@ Here are some awesome tools for dealing with CSV:
 - [CSV to SQL](https://monapdx.github.io/Frontend-Widgets/csv-to-sql.html) - Upload a CSV file, set a table name, and generate SQL inserts instantly.
 - [SmoothCSV](https://smoothcsv.com) - A fast, powerful, and intuitive CSV editor for Mac, Windows, and Linux.
 
+- [Compare Two Lists](https://comparetwolists.net/) - Compare two CSV columns or pasted lists to find shared values, differences and duplicates, with local browser processing and CSV export.
+
 ### Repair or Validate CSV
 
 - [Csvlint.go](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
