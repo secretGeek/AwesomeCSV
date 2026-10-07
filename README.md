@@ -61,6 +61,8 @@ Here are some awesome tools for dealing with CSV:
 - [CSV to SQL](https://monapdx.github.io/Frontend-Widgets/csv-to-sql.html) - Upload a CSV file, set a table name, and generate SQL inserts instantly.
 - [SmoothCSV](https://smoothcsv.com) - A fast, powerful, and intuitive CSV editor for Mac, Windows, and Linux.
 
+- [CSV Recipe](https://vit-percentage-recovery.cektekstudios.chatgpt.site/csv-recipe/) - Select, reorder and rename CSV columns in the browser, then reuse the column mapping from a saved JSON recipe.
+
 ### Repair or Validate CSV
 
 - [Csvlint.go](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
