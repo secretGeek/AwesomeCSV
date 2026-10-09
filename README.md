@@ -67,6 +67,7 @@ Here are some awesome tools for dealing with CSV:
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
+- [CSV Check Studio](https://muelleryu.github.io/csv-check-studio/) - A local browser checker for small CSV exports, with whitespace trimming, exact-row deduplication, decimal totals and cleaned CSV/report exports.
 
 ## Generate Table Schema
 
