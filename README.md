@@ -67,6 +67,7 @@ Here are some awesome tools for dealing with CSV:
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
+- [csv-sniff](https://github.com/CindyLiao1106/csv-sniff) - Work out why a CSV will not load: it reports encoding, delimiter, quote style and header row, then tells you how to read the file. Zero dependencies (Python).
 
 ## Generate Table Schema
 
