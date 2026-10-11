@@ -60,6 +60,7 @@ Here are some awesome tools for dealing with CSV:
 - [Data Wrangler](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
 - [CSV to SQL](https://monapdx.github.io/Frontend-Widgets/csv-to-sql.html) - Upload a CSV file, set a table name, and generate SQL inserts instantly.
 - [SmoothCSV](https://smoothcsv.com) - A fast, powerful, and intuitive CSV editor for Mac, Windows, and Linux.
+- [Price Change Review Kit](https://tgaggr.gumroad.com/l/price-change-review-kit) - Browser tool comparing supplier CSV price lists by exact SKU, with currency, unit, pack-quantity and minimum-order checks. Free trial: 100 rows per file; paid download: up to 25,000 rows per file.
 
 ### Repair or Validate CSV
 
