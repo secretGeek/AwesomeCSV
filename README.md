@@ -85,6 +85,7 @@ Here are some awesome tools for dealing with CSV:
 ### Convert to or from CSV
 
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
+- [Proceeds Ledger](https://proceedsledger.noemacreate.org/) - Converts Apple's App Store Payments CSV into a Xero or QuickBooks Online journal CSV in the browser, with per-region checks. Free demo; journal downloads for your own files need a paid license.
 
 ### CSV <-> JSON
 
