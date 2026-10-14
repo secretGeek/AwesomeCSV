@@ -88,6 +88,7 @@ Convert to or from CSV,CSV to Table,https://github.com/vividvilla/csvtotable,"Co
 CSV <-> JSON,Agnes,http://www.secretgeek.net/agnes/twoWay.html,"Two way Csv to Json **."
 CSV <-> JSON,csv2json,https://www.csvjson.com/csv2json,"Online tool to convert your CSV or TSV formatted data to JSON and [vice versa](https://www.csvjson.com/json2csv)."
 CSV <-> JSON,csv-to-json,https://mango-is.com/tools/csv-to-json/,"Easy, privacy-friendly and offline-first online csv to json converter."
+CSV <-> JSON,Tool Kumar,https://tools.vikasmaur.com/,"Convert CSV or TSV to JSON and export JSON as CSV locally in the browser, with no signup."
 Essays,Thinking about CSV,https://blog.datacite.org/thinking-about-csv/,"Martin Fenner."
 Essays,In Praise of CSV,https://usopendata.org/2015/03/10/csv,"Waldo Jaquith."
 Essays,Stop Rolling Your Own CSV Parser!,http://www.secretgeek.net/csv_trouble,"Leon Bambrick ***."

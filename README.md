@@ -91,6 +91,7 @@ Here are some awesome tools for dealing with CSV:
 - [Agnes](http://www.secretgeek.net/agnes/twoWay.html) - Two way Csv to Json **.
 - [csv2json](https://www.csvjson.com/csv2json) - online tool to convert your CSV or TSV formatted data to JSON and [vice versa](https://www.csvjson.com/json2csv).
 - [csv-to-json](https://mango-is.com/tools/csv-to-json/) - Easy, privacy-friendly and offline-first online csv to json converter.
+- [Tool Kumar](https://tools.vikasmaur.com/) - Convert CSV or TSV to JSON and export JSON as CSV locally in the browser, with no signup.
 
 
 ## Essays
