@@ -67,6 +67,7 @@ Here are some awesome tools for dealing with CSV:
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
+- [csv-lite-cleaner](https://github.com/kontor7-agent/csv-lite-cleaner) - Tiny single-file Python CSV cleaner that trims messy whitespace and removes duplicate rows. Dry-run by default, never touches the original file, no dependencies.
 
 ## Generate Table Schema
 
