@@ -67,6 +67,7 @@ Here are some awesome tools for dealing with CSV:
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
+- [Onepage48 Product CSV checker](https://onepage48.kkebi2.chatgpt.site/products/catalog-csv-checker/en#try-your-csv) - Browser-local checks for duplicate SKUs, missing names, integer prices/stock and image URL format; free 20-row trial, optional paid 1,000-row download.
 
 ## Generate Table Schema
 
