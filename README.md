@@ -67,6 +67,7 @@ Here are some awesome tools for dealing with CSV:
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
+- [OutreachGenie LinkedIn CSV Checker](https://www.outreachgenie.ai/linkedin-csv-checker) - Free browser tool to review LinkedIn profile URLs, duplicate and conflicting CSV rows, then download reviewed rows and an exclusion report.
 
 ## Generate Table Schema
 
