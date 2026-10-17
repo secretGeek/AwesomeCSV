@@ -48,6 +48,7 @@ Here are some awesome tools for dealing with CSV:
 - [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/) - A tiny library for making charts from csv data.
 - [Powershell: Import-CSV](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv) - Powerful in-built facility for dealing with CSV ([example](https://gist.github.com/dfinke/786ba9edae1b0265ada10b36a7a11ba9)).
 - [CSV Tools](https://onlinecsvtools.com/) - A collection of useful CSV utilities.
+- [CSVJetty](https://csvjetty.com) - Embeddable CSV importer for web apps with column mapping, validation, and delivery to your application.
 - [graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data.
 - [CSV to SQL](http://www.convertcsv.com/csv-to-sql.htm) - Online tool to create insert/update/delete etc from CSV data.
 - [C#: kbCSV](https://github.com/kentcb/KBCsv/blob/master/README.md) - An efficient, easy to use .NET parsing and writing library for CSV.
