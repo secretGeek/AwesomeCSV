@@ -31,6 +31,7 @@ Here are some awesome tools for dealing with CSV:
 
 ## Tools
 
+- [Zerocost Lab CSV Inspection](https://zerocost-lab-jp.com/tools/csv-inspection-trial/) - Free browser-based CSV inspection for leading zeros, empty cells, inconsistent column counts and embedded newlines; Japanese interface.
 - [NimbleText/Live](https://NimbleText.com/Live) - Use patterns to manipulate CSV; the world's simplest code generator *.
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
 - [d3-dsv](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
@@ -170,3 +171,4 @@ To experience the fun of contributing, see [Contributing](contributing.md)
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Leon Bambrick](http://secretgeek.net) has waived all copyright and related or neighboring rights to this work.
+
