@@ -30,7 +30,7 @@ When the final cockroach breathes her last breath, her dying act will be to scra
 Here are some awesome tools for dealing with CSV:
 
 ## Tools
-
+- [OpenAnyDoc](https://www.openanydoc.com/en/csv-viewer) - Free online CSV viewer and editor that runs in the browser (nothing uploaded); detects delimiter and encoding, handles Arabic/Windows-1256, 100,000+ rows.
 - [NimbleText/Live](https://NimbleText.com/Live) - Use patterns to manipulate CSV; the world's simplest code generator *.
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
 - [d3-dsv](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
