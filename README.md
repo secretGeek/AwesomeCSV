@@ -45,6 +45,7 @@ Here are some awesome tools for dealing with CSV:
 - [CSVfix](https://code.google.com/p/csvfix/) - A tool for manipulating CSV data.
 - [Tad](https://www.tadviewer.com) - A fast free cross-platform CSV viewer.
 - [csvtodashboard](https://csvtodashboard.com) - Convert, clean, query (SQL) and visualize CSV entirely in the browser - local-first, nothing is uploaded.
+- [Every Number](https://everynumber.app) - Turn a CSV or Excel export into a dashboard where every number shows the rows it used and the rows it left out. Free to try without an account.
 - [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/) - A tiny library for making charts from csv data.
 - [Powershell: Import-CSV](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv) - Powerful in-built facility for dealing with CSV ([example](https://gist.github.com/dfinke/786ba9edae1b0265ada10b36a7a11ba9)).
 - [CSV Tools](https://onlinecsvtools.com/) - A collection of useful CSV utilities.
