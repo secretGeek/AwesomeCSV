@@ -67,6 +67,7 @@ Here are some awesome tools for dealing with CSV:
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
+- [LocalCSV Lab Shopify CSV Preflight](https://tools.trendbridged.com/tools/shopify-csv-preflight/) - Free browser-local validation of Shopify product handles, variant options, prices and inventory; no CSV upload (optional opt-in ads on informational page).
 
 ## Generate Table Schema
 
