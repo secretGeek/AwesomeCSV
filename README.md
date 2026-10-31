@@ -84,6 +84,7 @@ Here are some awesome tools for dealing with CSV:
 
 ### Convert to or from CSV
 
+- [Bible Reading Calendar](https://github.com/szj2ys/bible-reading-calendar) - Convert dated Bible-reading CSV rows to all-day ICS events with an offline Python CLI.
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
 
 ### CSV <-> JSON
