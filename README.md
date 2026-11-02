@@ -60,6 +60,7 @@ Here are some awesome tools for dealing with CSV:
 - [Data Wrangler](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
 - [CSV to SQL](https://monapdx.github.io/Frontend-Widgets/csv-to-sql.html) - Upload a CSV file, set a table name, and generate SQL inserts instantly.
 - [SmoothCSV](https://smoothcsv.com) - A fast, powerful, and intuitive CSV editor for Mac, Windows, and Linux.
+- [Structura](https://structura-app.net) - Compare CSV and Excel files by key column, validate, clean, and profile CSV entirely in the browser - nothing is uploaded.
 
 ### Repair or Validate CSV
 
@@ -67,6 +68,7 @@ Here are some awesome tools for dealing with CSV:
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
+- [structura-csv](https://github.com/Kshitijbhatt1998/structura-csv) - Zero-dependency TypeScript library to validate CSV imports with a small rule language (Shopify, HubSpot, Google Merchant Center presets) and diff CSV files by key.
 
 ## Generate Table Schema
 
