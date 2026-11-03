@@ -85,6 +85,7 @@ Here are some awesome tools for dealing with CSV:
 ### Convert to or from CSV
 
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
+- [SyntaxFiddle Conversion Studio](https://syntaxfiddle.com/csv/) - 20 in-browser converters across CSV, Excel, JSON, SQL, XML, YAML, and Markdown with delimiter sniffing and type inference. No upload — all parsing is client-side.
 
 ### CSV <-> JSON
 
