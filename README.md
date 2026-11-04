@@ -42,6 +42,7 @@ Here are some awesome tools for dealing with CSV:
 - [Miller](http://johnkerl.org/miller/doc/) - Like sed / awk / cut / join / sort etc for name-indexed data such as CSV.
 - [ParaText](https://github.com/wiseio/paratext) - CSV parsing at 2.5 GB per second.
 - [CSVGet](http://github.com/fizx/csvget/tree/master) - Get structured data from sites as CSV.
+- [SiftingIO Market Data Export](https://sifting.io/tools/market-data-export) - Download historical US stock/ETF, forex, commodity and crypto prices as CSV or XLSX; limited last-24-hour guest preview/downloads, broader history requires a SiftingIO account and API key.
 - [CSVfix](https://code.google.com/p/csvfix/) - A tool for manipulating CSV data.
 - [Tad](https://www.tadviewer.com) - A fast free cross-platform CSV viewer.
 - [csvtodashboard](https://csvtodashboard.com) - Convert, clean, query (SQL) and visualize CSV entirely in the browser - local-first, nothing is uploaded.
