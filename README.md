@@ -55,6 +55,7 @@ Here are some awesome tools for dealing with CSV:
 - [Ron's Data Edit](https://www.ronsplace.eu/Products/RonsDataEdit) (new modern version of [Ron's CSV Editor](https://www.ronsplace.eu/products/ronseditor)) - Handles big files, does miraculous things. A timeless editor for a timeless format.
 - [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
 - [ExtendsClass](https://extendsclass.com/csv-diff.html) - A simple CSV comparator.
+- [Catalog Three-Way Check](https://hitocase.itch.io/catalog-three-way-check) - Free Japanese-language browser tool comparing base, current and proposed product CSVs by explicit stable keys; reports conflicting edits without importing or merging files.
 - [Mighty Merge](https://mightymerge.io/) - join/union csv files.
 - [Modern CSV](https://www.moderncsv.com/) - A tool for editing CSV files and viewing large files.
 - [Data Wrangler](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
