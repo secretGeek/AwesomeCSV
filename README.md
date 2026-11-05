@@ -68,6 +68,8 @@ Here are some awesome tools for dealing with CSV:
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
 
+- [PageUtil CSV Fixer](https://pageutil.com/csv-fixer/) - Free browser tool to diagnose CSV encoding, delimiter and malformed-row issues, with local processing and XLSX export that preserves leading zeros and long identifiers as text.
+
 ## Generate Table Schema
 
 - [CSV Schema](https://csv-schema.surge.sh/) &mdash; Analyzes a CSV file and generates database table schema, all within the browser
