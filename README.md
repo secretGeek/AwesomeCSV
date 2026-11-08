@@ -85,6 +85,7 @@ Here are some awesome tools for dealing with CSV:
 ### Convert to or from CSV
 
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
+- [payment-csv-to-quickbooks](https://github.com/dylancaponi/payment-csv-to-quickbooks) - Convert Venmo, PayPal, Stripe, Square and bank CSV exports into QuickBooks .qbo, OFX or Xero CSV, in the browser.
 
 ### CSV <-> JSON
 
