@@ -86,12 +86,15 @@ Here are some awesome tools for dealing with CSV:
 
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
 
+- [pdf-table-pull-lite](https://github.com/tidybytetools/pdf-table-pull-lite) - Pull tables out of local text PDFs and save each as CSV (CLI/MCP, MIT, PyPI).
 ### CSV <-> JSON
 
 - [Agnes](http://www.secretgeek.net/agnes/twoWay.html) - Two way Csv to Json **.
 - [csv2json](https://www.csvjson.com/csv2json) - online tool to convert your CSV or TSV formatted data to JSON and [vice versa](https://www.csvjson.com/json2csv).
 - [csv-to-json](https://mango-is.com/tools/csv-to-json/) - Easy, privacy-friendly and offline-first online csv to json converter.
 
+
+- [json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) - Free CLI/MCP that turns CSV/TSV, Markdown tables, and key:value notes into typed JSON. Runs locally (MIT, PyPI).
 
 ## Essays
 
