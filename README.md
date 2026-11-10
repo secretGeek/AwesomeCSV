@@ -64,6 +64,7 @@ Here are some awesome tools for dealing with CSV:
 ### Repair or Validate CSV
 
 - [Csvlint.go](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
+- [catalog-csv-lint](https://github.com/ericcheng0904-pixel/product-csv-lint) - Command-line checker for documented import problems in a Shopify product CSV.
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
