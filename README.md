@@ -67,6 +67,7 @@ Here are some awesome tools for dealing with CSV:
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
+- [CSVUndo](https://csvundo.com/) - Free browser-based tools to repair Excel-damaged CSV files (scientific notation, lost leading zeros, mojibake, wrong encoding); includes a [public privacy-verification guide](https://csvundo.com/proof).
 
 ## Generate Table Schema
 
@@ -96,7 +97,7 @@ Here are some awesome tools for dealing with CSV:
 ## Essays
 
 > Once you've found the perfect data serialization file format, you stop looking
->
+
 > [David Wengier](https://twitter.com/davidwengier/status/1159606464220000257)
 
 
@@ -129,7 +130,7 @@ Here are some awesome tools for dealing with CSV:
 
 ## Standards
 
-> The wonderful thing about standards is that there are so many of them to choose from.<br />&mdash;(Possibly) Grace Hopper.
+> The wonderful thing about standards is that there are so many to choose from.<br />&mdash;(Possibly) Grace Hopper.
 
 - [RFC 4180](https://tools.ietf.org/html/rfc4180) ([html version](http://www.faqs.org/rfcs/rfc4180.html)) - "*Common format and MIME Type for Comma-Separated Values (CSV) Files*".
   - [Definition of the CSV Format](https://tools.ietf.org/html/rfc4180#section-2)
@@ -137,7 +138,7 @@ Here are some awesome tools for dealing with CSV:
 - [W3C: Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
 - [CSV Schema Language](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html) - A language for defining and validating CSV data.
 - [csv,specs](https://github.com/csvspecs) - Comma-Separated Values (CSV) Format Specifications (and Tests) incl. CSV v1.0, CSV v1.1, CSV Strict, CSV <3 Numerics, CSV<3 JSON, CSV <3 YAML.
-- [Tabular Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) - A [Data Resource](http://frictionlessdata.io/specs/data-resource/) specialized for describing tabular data like CSV files or spreadsheets
+- [Tabular Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) - A [Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) specialized for describing tabular data like CSV files or spreadsheets
 - [CSVY](https://github.com/csvy/csvy.github.io/blob/master/index.md) - A standard for adding a YAML header to CSV files to describe their format
 
 ## META: Other similar lists
@@ -161,7 +162,7 @@ To experience the fun of contributing, see [Contributing](contributing.md)
 
 `*` <span id='footnote1' ></span> I'm the author of [NimbleText](https://NimbleText.com/Live). Of course I put it first on the list. If I didn't personally rate it I wouldn't have spent so much time making and improving it.
 
-`**` <span id='footnote2' ></span> I wrote `agnes` but don't particularly endorse it for others to use (thus haven't migrated the source code to GitHub). It's slow and non-streaming. I'd go with `papa-parse`. On the plus side, `agnes` has a more comprehensive test suite and simpler api than most.
+`**` <span id='footnote2' ></span> I wrote `agnes` but don't particularly endorse it for others to use (thus haven't migrated the source code to GitHub). It's slow and non-streaming. I'd go with `papa-parse`. On the plus side, it has a more comprehensive test suite and simpler api than most.
 
 `***` <span id='footnote3' ></span> Mine too.
 
