@@ -60,7 +60,7 @@ Here are some awesome tools for dealing with CSV:
 - [Data Wrangler](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
 - [CSV to SQL](https://monapdx.github.io/Frontend-Widgets/csv-to-sql.html) - Upload a CSV file, set a table name, and generate SQL inserts instantly.
 - [SmoothCSV](https://smoothcsv.com) - A fast, powerful, and intuitive CSV editor for Mac, Windows, and Linux.
-- [LeanRows](https://github.com/abooodbah/leanrows) - A free, read-only Windows viewer for large CSV, TSV and JSONL files, including files past Excel's row limit.
+- [LeanRows](https://github.com/abooodbah/leanrows) - Windows viewer for CSV, TSV and JSONL files too big for Excel; indexed a 20M-row, 1.5 GB CSV in 18.4 MB of memory. Free, MIT.
 
 ### Repair or Validate CSV
 
