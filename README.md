@@ -66,6 +66,7 @@ Here are some awesome tools for dealing with CSV:
 - [Csvlint.go](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
+- [Shopify CSV Error Fixer](https://www.inboxwisetools.com/tools/shopify-csv-error-fixer/) - Browser-based checker for Shopify product CSVs: finds encoding, header, price, variant and handle problems with line numbers and downloads a fixed copy. The file is not uploaded.
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
 
 ## Generate Table Schema
