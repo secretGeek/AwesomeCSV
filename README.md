@@ -63,6 +63,7 @@ Here are some awesome tools for dealing with CSV:
 
 ### Repair or Validate CSV
 
+- [Offline Invoice & Payment CSV Review](https://payhip.com/b/ZqNJQ) - Paid Python command-line source (US$15) for checking invoice/payment CSV snapshots locally and producing HTML/JSON/CSV reports and review exceptions. Windows/Python 3.12; up to 500 rows per input.
 - [Csvlint.go](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
