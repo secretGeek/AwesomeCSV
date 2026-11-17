@@ -85,6 +85,7 @@ Here are some awesome tools for dealing with CSV:
 ### Convert to or from CSV
 
 - [CSV to Table](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
+- [FenceCSV](https://todaysworld-com.github.io/fencecsv/) - Free in-browser converters that turn invoices, receipts, statements and tax forms into checked CSV and spreadsheet files, with a totals verification pass on every conversion.
 
 ### CSV <-> JSON
 
