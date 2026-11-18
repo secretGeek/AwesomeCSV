@@ -121,6 +121,7 @@ Here are some awesome tools for dealing with CSV:
 - [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
 - [United Nations data](https://data.un.org) - Data from the UN
+- [Mobile games data](https://github.com/phescobbar/mobile-games-data) - App Store and Google Play facts for ~8,000 games as CSV (ratings, downloads, prices, ads and in-app purchase labels, sizes), with dated versions.
 
 ## Conferences
 
