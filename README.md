@@ -65,6 +65,7 @@ Here are some awesome tools for dealing with CSV:
 
 - [Csvlint.go](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
 - [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
+- [NoCloudFiles CSV Check](https://nocloudfiles.com/csv-check/) - Check quoting and column counts in the browser and export UTF-8 CSV without uploading the file.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 - [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
 
